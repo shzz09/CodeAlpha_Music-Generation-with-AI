@@ -2,5 +2,8 @@
 venv/
 __pycache__/
 *.pyc
-.streamlit/
 dataset/
+generated_music.wav
+generated_music.mid
+.env
+
